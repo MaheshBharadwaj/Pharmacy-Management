@@ -1,0 +1,3 @@
+Date: 19 3 2019
+Stock Sold: 10
+Total Amount: 653.809
